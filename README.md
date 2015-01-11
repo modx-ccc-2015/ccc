@@ -1,2 +1,2 @@
-# ccc
-The overall repository with issues
+# Wishlist
+The overall repository with MODX issues to tackle together
