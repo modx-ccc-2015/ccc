@@ -6,9 +6,9 @@ This place is ment to be as a big pond of possibilies: new MODX features, enhanc
 Please use something like this template (you know it from MOX itself) to describe your issue:
 
 
-#### Template for Bugs (you know it from MOX itself)
+#### Template for Bugs/Enhancements (you know it from MOX itself)
 
-    ## Summary
+    ### Summary
     Quick summary what's this issue about.
 
     ### Step to reproduce
@@ -22,3 +22,11 @@ Please use something like this template (you know it from MOX itself) to describ
 
     ### Environment
     MODX version, apache/nginx and version, mysql version, browser, etc. Any relevant information.
+
+#### Template for Extras, Snippets/Plugins and external stuff
+
+    ### Summary
+    Quick summary what's this is about, why it is usefull and the worls needs it.
+
+    ### Technical approach and stuff
+    How could it be done, what would be needed. Could this break something?
