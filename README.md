@@ -6,7 +6,7 @@ This place is ment to be as a big pond of possibilies: new MODX features, enhanc
 Please use something like this template (you know it from MOX itself) to describe your issue:
 
 
-### Template for Bugs
+#### Template for Bugs (you know it from MOX itself)
 
     ## Summary
     Quick summary what's this issue about.
