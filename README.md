@@ -9,8 +9,8 @@ Please use this template (you know it from MOX itself) to describe your issue:
 
 #### Template
 
-### Summary
-Quick summary what's this issue about.
+    ## Summary
+    Quick summary what's this issue about.
 
     ### Step to reproduce
     How to reproduce the issue, including custom code if needed.
