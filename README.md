@@ -3,11 +3,10 @@ The overall repository with MODX issues to tackle together at the MODX CCC 2015.
 
 This place is ment to be as a big pond of possibilies: new MODX features, enhancement of existing features, old issues that really need to be fixed, stuff around MODX to make things easier. Please feel free to let your mind wander.
 
-Please use this template (you know it from MOX itself) to describe your issue:
+Please use something like this template (you know it from MOX itself) to describe your issue:
 
-## Submit an issue
 
-#### Template
+### Template for Bugs
 
     ## Summary
     Quick summary what's this issue about.
