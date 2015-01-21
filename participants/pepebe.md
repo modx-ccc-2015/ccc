@@ -15,7 +15,7 @@ The github PR below already contains a few improvements:
 * deleted::1 - Deleted resources
 * introtext:LIKE::%foo% - Any resource containing the string %foo%
 
-###uberbar_maxresults
+###New system setting uberbar_maxresults
 
 Change default value of 5 results per category to another value.
 
