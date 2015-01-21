@@ -6,9 +6,23 @@ I should write more issues. Most of the things I keep ranting about never make i
 
 Searching for resources/elements in the uberbar is very limited. I would like to see search by fieldname for resources and by id for elements.
 
+The github PR below already contains a few improvements:
+
+###Use fieldname::value syntax to search for specific things
+
+* id::32 - Any element/resource with id 32
+* class_key::mgResource - Any moreGallery resource
+* deleted::1 - Deleted resources
+* introtext:LIKE::%foo% - Any resource containing the string %foo%
+
+###uberbar_maxresults
+
+change default value of 5 results per category to anotehr value.
+
+###JSON search
 An optional search by a complex json string would be even more awesome.
 
-Github:
+###Github:
 
 * https://github.com/modxcms/revolution/issues/12283
 * https://github.com/modxcms/revolution/pull/12282
@@ -17,7 +31,7 @@ Github:
 
 If you move tvs to modx-resource-main-left/right there are a whole lot of things going wrong...
 
-Github:
+###Github:
 
 * https://github.com/modxcms/revolution/issues/12221
 
@@ -25,15 +39,17 @@ Github:
 
 xtype numberfield is only used for 'root_tree_id' all other system settings that require a number (site_start, etc) are set to textfield
 
-Github:
+###Github:
 
 * https://github.com/modxcms/revolution/issues/12284
 
 ##Add numberfield to list of available xtypes for new system settings
 
+Create a new system setting and try to picke numberfield from the list of available xtypes.
+
 Its not in the list.
 
-Github:
+###Github:
 
 * To be announced...
 
@@ -44,7 +60,7 @@ Github:
 modDevTools by argnist shows breadcrumbs below each resource pagetitle.
 They are quite useful and I think they should be a standalone extension.
 
-My plugin code on Github:
+###My plugin code on Github:
 
 * https://gist.github.com/pepebe/f77f90ddfae1fcdca9a1
 
