@@ -17,7 +17,7 @@ The github PR below already contains a few improvements:
 
 ###uberbar_maxresults
 
-change default value of 5 results per category to anotehr value.
+Change default value of 5 results per category to another value.
 
 ###JSON search
 An optional search by a complex json string would be even more awesome.
