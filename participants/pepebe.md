@@ -49,6 +49,27 @@ Create a new system setting and try to picke numberfield from the list of availa
 
 Its not in the list.
 
+##Move messages away from system settings into lexicon files
+
+A couple of system messages are still stuck inside system settings. 
+
+```
+site_unavailable_message
+emailsubject
+forgot_login_email
+signupemail_message
+webpwdreminder_message
+websignupemail_message
+````
+
+Let's do something about it.
+
+###Github:
+https://github.com/modxcms/revolution/issues/6092
+
+###Github:
+https://mac.github.com/
+
 ###Github:
 
 * To be announced...
