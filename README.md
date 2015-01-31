@@ -1,6 +1,8 @@
 # Wishlist
 The overall repository with MODX issues to tackle together at the MODX CCC 2015. This place is meant to be as a "big pond of possibilities": new MODX features, enhancement of existing features, old issues that really need to be fixed, stuff around MODX to make things easier. Please feel free to let your mind wander.
 
+P.S.: Yes, we f'ed up the URL. :-( "whishlist" should be "wishlist". Sorry! We don't want to change that now but we will do it later.
+
 Please use something like these templates to describe your ideas:
 
 #### Template for Bugs/Enhancements (you know it from MODX itself)
